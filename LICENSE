@@ -1,0 +1,162 @@
+McBotAI Non-Commercial Redistribution License
+
+Copyright (c) 2026 McBotAI project
+
+1. Definitions
+
+For the purposes of this License:
+
+"Software" means the McBotAI Minecraft modification, including its source code, compiled binaries, assets, configuration files, and other files distributed as part of the McBotAI Minecraft modification.
+
+"Author" means the copyright holder(s) of McBotAI.
+
+"Modified Version" means any version of the Software that has been altered, modified, adapted, translated, extended, or otherwise derived from the Software.
+
+"Commercial Redistribution" means distributing, selling, licensing, sublicensing, renting, leasing, bundling, or otherwise providing the Software or a Modified Version primarily in exchange for money or other monetary compensation.
+
+Commercial Redistribution includes, but is not limited to:
+
+Selling the Software or a Modified Version.
+Selling access to downloads of the Software.
+Including the Software in a paid software package.
+Charging specifically for access to the Software.
+Redistributing the Software as part of a product where the Software itself is a paid component.
+
+Commercial Redistribution does not include:
+
+Monetized videos or livestreams featuring the Software.
+Free modpacks containing the Software.
+Free Minecraft servers using the Software.
+Donations or general support for a project that does not require payment specifically to obtain the Software.
+Sharing the Software without requiring payment.
+Using the Software internally for personal or non-commercial purposes.
+2. Permission Grant
+
+Subject to the terms and conditions of this License, the Author grants you a worldwide, non-exclusive, royalty-free license to:
+
+Download and use the Software.
+Copy the Software.
+Modify the Software.
+Create Modified Versions.
+Distribute the original Software free of charge.
+Distribute Modified Versions free of charge.
+Include the Software in free Minecraft modpacks.
+Include the Software in free projects and applications.
+Use the Software on personal, educational, or non-commercial Minecraft servers.
+Use the Software in monetized content such as videos and livestreams, provided that the Software itself is not being commercially redistributed.
+3. Non-Commercial Redistribution Restriction
+
+You may not commercially redistribute the Software or any Modified Version without obtaining explicit written permission from the Author.
+
+You may not:
+
+Sell the Software.
+Sell a Modified Version of the Software.
+Charge a fee specifically for access to the Software.
+Place the Software behind a paid download, subscription, membership, or paywall.
+Bundle the Software with a paid product where access to the Software is part of the commercial transaction.
+Offer the Software as a paid service or downloadable product.
+Repackage the Software and sell it under another name.
+Use the Software as a substantial component of a commercial software product where access to McBotAI is part of the paid offering.
+
+Commercial redistribution requires explicit written permission from the Author.
+
+4. Modification Requirements
+
+You may modify the Software and distribute Modified Versions free of charge.
+
+When distributing a Modified Version, you must:
+
+Clearly state that the version has been modified.
+Retain this License.
+Retain the original copyright notice.
+Provide appropriate attribution to McBotAI and the original Author.
+Not represent the Modified Version as an official release of McBotAI.
+Not falsely claim authorship of the original McBotAI code.
+
+You may give a Modified Version its own project name, provided that you do not falsely represent it as the official McBotAI project.
+
+5. Redistribution Requirements
+
+When redistributing the Software or a Modified Version, you must:
+
+Include a copy of this License.
+Retain the copyright notice.
+Provide reasonable attribution to McBotAI.
+Clearly identify Modified Versions as modified.
+Not charge a fee specifically for the Software.
+
+Where reasonably possible, redistribution should include a link to the official McBotAI project page or repository.
+
+6. Backend Software
+
+The McBotAI Minecraft modification may download or communicate with software hosted separately from the Minecraft modification, including but not limited to Node.js backend software, APIs, services, models, or other server-side components.
+
+Such separately hosted software is NOT automatically licensed under this License.
+
+Unless explicitly stated otherwise by the Author:
+
+The Node.js backend is not granted under this License.
+The backend source code remains the property of its respective copyright holder(s).
+You may not copy, mirror, redistribute, sell, modify, or commercially exploit the backend unless separately authorized.
+This License applies only to the McBotAI Minecraft modification and the files explicitly identified as being covered by this License.
+
+The Author may provide separate licensing terms for the backend or other separately hosted components.
+
+7. Official Releases
+
+Only releases published or explicitly authorized by the Author may be represented as official McBotAI releases.
+
+You may create forks and Modified Versions, but you must not:
+
+Claim that your fork is the official McBotAI project.
+Use misleading names, descriptions, or branding intended to impersonate the official project.
+Misrepresent your relationship with the Author.
+8. Trademarks and Branding
+
+This License does not grant permission to use the McBotAI name, logo, trademarks, or other branding for purposes that imply endorsement, sponsorship, or official status.
+
+Forks and Modified Versions may use the original project name for attribution purposes, but must clearly identify themselves as unofficial when necessary to avoid confusion.
+
+9. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+10. Termination
+
+Your rights under this License automatically terminate if you violate its terms.
+
+Upon termination, you must cease exercising the rights granted by this License, except where applicable law provides otherwise.
+
+Rights properly granted to recipients before termination are not automatically revoked solely because your own license rights have terminated.
+
+11. No Additional Restrictions
+
+You may not impose additional restrictions on recipients that prevent them from exercising the permissions expressly granted by this License.
+
+In particular, you may not prevent recipients from:
+
+Using the Software for free.
+Modifying the Software.
+Creating free forks.
+Sharing the Software free of charge.
+Including the Software in free modpacks.
+12. Copyright
+
+All rights not expressly granted by this License are reserved by the Author.
+
+McBotAI remains copyrighted software. This License grants specific permissions to users and contributors but does not transfer ownership of the Software.
+
+13. Permission for Commercial Redistribution
+
+The Author may grant additional permissions for commercial redistribution on a case-by-case basis.
+
+Such permission must be provided explicitly and in writing by the Author.
+
+McBotAI Non-Commercial Redistribution License
+
+Copyright (c) 2026 McBotAI Project
+
+This license applies only to McBotAI components explicitly distributed under this License.
