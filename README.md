@@ -1,0 +1,2 @@
+# McBotAI
+A Minecraft mod.
