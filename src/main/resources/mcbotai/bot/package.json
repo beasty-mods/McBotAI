@@ -1,0 +1,18 @@
+{
+  "name": "mcbotai",
+  "version": "0.0.2",
+  "description": "A Mineflayer bot with basic AI brain and chat commands for a private Minecraft server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "pretrain": "node pretrain.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.37.1",
+    "mineflayer-collectblock": "^1.6.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "mineflayer-pvp": "^1.3.2",
+    "vec3": "^0.2.0"
+  }
+}
